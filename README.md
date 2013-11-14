@@ -31,7 +31,7 @@ The twist: we use core.typed to make them statically stricter.
 For example, you can only add `Number`s to a `(Set Number)`. 
 
 As `(hash-set)` is a
-`(Set Nothing)`, (entirely useless to add element to: only `Nothing` can be added!)
+`(Set Nothing)`, which only `Nothing` can be added in this library,
 we also define convenience wrappers for constructors.
 
 ```clojure
