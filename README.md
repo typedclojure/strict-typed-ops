@@ -2,6 +2,18 @@
 
 Stricter type operations for Typed Clojure. Inspired by Scala's collections.
 
+## Dependency
+
+Available on Clojars.
+
+Leingingen:
+
+`[strict-typed-ops "0.1.0"]`
+
+## API
+
+[API](http://typedclojure.github.io/strict-typed-ops/)
+
 ## Usage
 
 `strict-typed-ops.strict` contains a suite of typed wrappers for common collection operations.
