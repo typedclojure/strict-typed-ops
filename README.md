@@ -10,7 +10,7 @@ Available on [Clojars](https://clojars.org/org.typedclojure/strict-typed-ops).
 
 Leiningen:
 
-`[strict-typed-ops "0.1.0"]`
+`[org.typedclojure/strict-typed-ops "0.1.0"]`
 
 ## API
 
