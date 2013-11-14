@@ -1,6 +1,6 @@
 # strict-typed-ops
 
-<a href='http://www.typedclojure.org'><img href='images/part-of-typed-clojure-project.png'></a>
+<a href='http://www.typedclojure.org'><img src='images/part-of-typed-clojure-project.png'></a>
 
 Stricter type operations for Typed Clojure. Inspired by Scala's collections.
 
