@@ -6,7 +6,7 @@ Stricter type operations for Typed Clojure. Inspired by Scala's collections.
 
 Available on Clojars.
 
-Leingingen:
+Leiningen:
 
 `[strict-typed-ops "0.1.0"]`
 
