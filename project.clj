@@ -1,4 +1,4 @@
-(defproject strict-typed-ops "0.1.0-SNAPSHOT"
+(defproject strict-typed-ops "0.1.0"
   :description "Stricter typed operations for Typed Clojure"
   :url "http://www.typedclojure.org"
   :license {:name "Eclipse Public License"
